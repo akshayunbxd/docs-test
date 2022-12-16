@@ -1,3 +1,7 @@
+---
+title: Page Size
+layout: pageSize
+---
 
 ## Page Size Config
 Page Size widget allows you to configure the number of products shown on each page:
