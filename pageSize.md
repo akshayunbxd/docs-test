@@ -1,9 +1,9 @@
 ---
 title: Page Size
-layout: pageSize
+layout: default
 ---
 
-## Page Size Config
+Page Size Config
 Page Size widget allows you to configure the number of products shown on each page:
 
 [![](https://unbxd.com/docs/wp-content/uploads/2020/05/page-size-new.png)](https://unbxd.com/docs/wp-content/uploads/2020/05/page-size-new.png)  
